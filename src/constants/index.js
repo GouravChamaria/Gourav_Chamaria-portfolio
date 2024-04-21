@@ -32,12 +32,10 @@ import {
   SiJirasoftware,
 } from "react-icons/si";
 
-
-import { DiCss3, DiJava,} from "react-icons/di";
+import { DiCss3, DiJava } from "react-icons/di";
 
 export const resumeLink =
-  "https://docs.google.com/document/d/1wCm2mcwC4xHGtbRSw_g4E95n7Uf92iZBIWqxaZsFKTY/edit?usp=sharing";
-
+  "https://drive.google.com/file/d/1RiVsQqlfnh4uzz2UkXCplaeoRx6EkRoh/view?usp=sharing";
 
 export const callToAction = "https://www.linkedin.com/in/Gourav-Chamaria";
 
@@ -46,15 +44,15 @@ export const navLinks = [
     id: "skills",
     title: "Skills & Experience",
   },
-  {
-    id: "education",
-    title: "Education",
-  },
+
   {
     id: "projects",
     title: "Projects",
   },
-
+  {
+    id: "education",
+    title: "Education",
+  },
   {
     id: "contactMe",
     title: "Contact Me",
@@ -166,7 +164,7 @@ export const experiences = [
         duration: "April 2023 - Present",
         content: [
           {
-            text: "Working as a team lead and web developer at Ehalo Travel - a travel tech startup",
+            text: "Currently Working as a team lead and web developer at Ehalo Travel - A travel tech startup based in Toronto",
             link: "",
           },
         ],
@@ -183,7 +181,7 @@ export const experiences = [
         duration: "September 2021 - April 2023",
         content: [
           {
-            text: "Working as a website manager and web developer at Daal-Roti",
+            text: "Worked as a website manager and web developer at Daal-Roti, maintaining the website and adding new features to it.",
             link: "",
           },
         ],
@@ -200,7 +198,7 @@ export const experiences = [
         duration: "March 2020 - September 2021",
         content: [
           {
-            text: "Working as a web developer at Sandhya Border Times - a news company",
+            text: "Worked as a web developer at Sandhya Border Times - a news company, built website from scratch and helped them grow in the market.",
             link: "",
           },
         ],
@@ -208,8 +206,6 @@ export const experiences = [
     ],
   },
 ];
-
-
 
 export const projects = [
   {
@@ -259,8 +255,6 @@ export const projects = [
       "An Android game app for a traditional game called Tambola or Housie.",
   },
 ];
-
-
 
 export const socialMedia = [
   {
