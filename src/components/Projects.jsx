@@ -43,10 +43,11 @@ const Project = (props) => {
         )}
         {props.link ? (
           <a href={props.link} target="_blank">
-            <BsLink45Deg
-              size="2rem"
-              className="text-white hover:text-teal-200"
-            ></BsLink45Deg>
+            {/* sliding link button */}
+            <button className="flex items-center px-4 py-2 mt-2 text-white bg-gradient-to-r from-teal-400 to-blue-500 rounded-md shadow-md hover:from-teal-500 hover:to-blue-600">
+              <span>Visit Site</span>
+              <BsLink45Deg size="1rem" className="ml-1"></BsLink45Deg>
+            </button>
           </a>
         ) : (
           ""
