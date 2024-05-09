@@ -218,11 +218,11 @@ export const projects = [
   },
   {
     id: "project-2",
-    title: "Investment Calculator",
-    link: "https://play.google.com/store/apps/details?id=com.zeronbit.investmentcalculator&hl=en",
-    image: invest,
+    title: "Ehalo",
+    link: "https://ehalo.travel/",
+    image: ehalo,
     content:
-      "Easy to use app which help you plan your retirement or any other financial goals by performing complex calculations at a lightening speed and gives you the results with interactive graph and animations.",
+      "A travel planner for any occasion. Create trips, share with your friends & collaborate.",
   },
   {
     id: "project-3",
@@ -249,6 +249,13 @@ export const projects = [
   },
   {
     id: "project-6",
+    title: "Investment Calculator",
+    image: invest,
+    content:
+      "Easy to use app which help you plan your retirement or any other financial goals by performing complex calculations at a lightening speed and gives you the results with interactive graph and animations.",
+  },
+  {
+    id: "project-7",
     title: "housie",
     image: housie,
     content:
