@@ -35,7 +35,7 @@ import {
 import { DiCss3, DiJava } from "react-icons/di";
 
 export const resumeLink =
-  "https://drive.google.com/file/d/1RiVsQqlfnh4uzz2UkXCplaeoRx6EkRoh/view?usp=sharing";
+  "https://drive.google.com/file/d/1H9u7JlzgBZbbuelurGlbHXgPxNztS2AN/view?usp=sharing";
 
 export const callToAction = "https://www.linkedin.com/in/Gourav-Chamaria";
 
