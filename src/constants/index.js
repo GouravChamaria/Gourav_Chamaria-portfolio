@@ -164,7 +164,7 @@ export const experiences = [
         duration: "April 2023 - Present",
         content: [
           {
-            text: "Currently Working as a team lead and web developer at Ehalo Travel - A travel tech startup based in Toronto",
+            text: "Currently Working as web developer at Ehalo Travel - A travel tech startup based in Toronto",
             link: "",
           },
         ],
