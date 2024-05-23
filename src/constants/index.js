@@ -226,19 +226,18 @@ export const projects = [
   },
   {
     id: "project-3",
-    title: "roastme",
-    link: "https://play.google.com/store/apps/details?id=com.zeronbit.roast.me&hl=en",
-    image: roastme,
-    content:
-      "An awesome app to insult friends or people for fun. Click their photo and show them the insulting lines on them.",
-  },
-  {
-    id: "project-4",
     title: "SBT News",
     link: "https://www.sbtnews.in/",
     image: sbt,
     content:
       "Hindi news website of the local evening newspaper and help them grow in the market.",
+  },
+  {
+    id: "project-4",
+    title: "roastme",
+    image: roastme,
+    content:
+      "An awesome app to insult friends or people for fun. Click their photo and show them the insulting lines on them.",
   },
   {
     id: "project-5",
