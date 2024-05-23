@@ -211,7 +211,6 @@ export const projects = [
   {
     id: "project-1",
     title: "FileCraft.io",
-    link: "https://filecraft.io",
     image: filecraft,
     content:
       "Filecraft offers an unparalleled file conversion experience by seamlessly merging speed, accuracy, and user-friendliness",
