@@ -45,6 +45,10 @@ import housie from "./housie.webp";
 import ehalo from "./ehalo.jpg";
 import filecraft from "./filecraft.svg";
 import invest from "./invest.webp";
+import bexia from "./bexia.svg";
+import canadianshirtcompany from "./canadianshirtcompany.jpg";
+import lachickpick from "./lachickpick.svg";
+import indianshirtcompany from "./indianshirtcompany.png";
 
 export {
   airbnb,
@@ -93,5 +97,9 @@ export {
   housie,
   ehalo,
   filecraft,
-  invest
+  invest,
+  bexia,
+  canadianshirtcompany,
+  lachickpick,
+  indianshirtcompany,
 };

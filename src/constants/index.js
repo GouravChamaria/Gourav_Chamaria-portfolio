@@ -216,7 +216,7 @@ export const projects = [
     id: "project-1",
     title: "BEXIA",
     link: "https://bexia.ca/",
-    image: filecraft,
+    image: bexia,
     content:
       "Women clothing clothing webiste.",
   },
