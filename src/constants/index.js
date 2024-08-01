@@ -216,7 +216,7 @@ export const projects = [
     id: "project-1",
     title: "BEXIA",
     link: "https://bexia.ca/",
-    image: bexia,
+    image: filecraft,
     content:
       "Women clothing clothing webiste.",
   },
@@ -239,7 +239,7 @@ export const projects = [
   {
     id: "project-4",
     title: "Indian Shirt Company",
-    link: "https://bexia.ca/",
+    link: "https://indianshirtcompany.com/",
     image: indianshirtcompany,
     content:
       "Shopping site for premium shirts in India",
@@ -263,7 +263,6 @@ export const projects = [
   {
     id: "project-7",
     title: "FileCraft.io",
-    link: "https://filecraft.io/",
     image: filecraft,
     content:
       "Filecraft offers an unparalleled file conversion experience by seamlessly merging speed, accuracy, and user-friendliness",
