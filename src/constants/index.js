@@ -8,6 +8,7 @@ import {
   ehalo,
   filecraft,
   invest,
+  bexia,
 } from "../assets";
 
 import {
@@ -208,6 +209,14 @@ export const experiences = [
 ];
 
 export const projects = [
+  {
+    id: "project-1",
+    title: "BEXIA",
+    link: "https://bexia.ca/",
+    image: bexia,
+    content:
+      "Filecraft offers an unparalleled file conversion experience by seamlessly merging speed, accuracy, and user-friendliness",
+  },
   {
     id: "project-1",
     title: "FileCraft.io",
