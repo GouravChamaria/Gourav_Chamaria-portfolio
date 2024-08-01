@@ -9,6 +9,9 @@ import {
   filecraft,
   invest,
   bexia,
+  canadianshirtcompany,
+  lachickpick,
+  indianshirtcompany,
 } from "../assets";
 
 import {
@@ -215,18 +218,34 @@ export const projects = [
     link: "https://bexia.ca/",
     image: bexia,
     content:
-      "Filecraft offers an unparalleled file conversion experience by seamlessly merging speed, accuracy, and user-friendliness",
-  },
-  {
-    id: "project-1",
-    title: "FileCraft.io",
-    link: "https://filecraft.io/",
-    image: filecraft,
-    content:
-      "Filecraft offers an unparalleled file conversion experience by seamlessly merging speed, accuracy, and user-friendliness",
+      "Women clothing clothing webiste.",
   },
   {
     id: "project-2",
+    title: "Canadian Shirt Company",
+    link: "https://canadianshirtcompany.com/",
+    image: canadianshirtcompany,
+    content:
+      "Canadian Shirt Company, your go-to shopping website for premium shirts in Canada",
+  },
+  {
+    id: "project-3",
+    title: "La Chick Pick",
+    link: "https://lachicpick.in/",
+    image: lachickpick,
+    content:
+      "Premium shopping site to shop around the world",
+  },
+  {
+    id: "project-4",
+    title: "Indian Shirt Company",
+    link: "https://bexia.ca/",
+    image: indianshirtcompany,
+    content:
+      "Shopping site for premium shirts in India",
+  },
+  {
+    id: "project-5",
     title: "Ehalo",
     link: "https://ehalo.travel/",
     image: ehalo,
@@ -234,7 +253,7 @@ export const projects = [
       "A travel planner for any occasion. Create trips, share with your friends & collaborate.",
   },
   {
-    id: "project-3",
+    id: "project-6",
     title: "SBT News",
     link: "https://www.sbtnews.in/",
     image: sbt,
@@ -242,28 +261,36 @@ export const projects = [
       "Hindi news website of the local evening newspaper and help them grow in the market.",
   },
   {
-    id: "project-4",
+    id: "project-7",
+    title: "FileCraft.io",
+    link: "https://filecraft.io/",
+    image: filecraft,
+    content:
+      "Filecraft offers an unparalleled file conversion experience by seamlessly merging speed, accuracy, and user-friendliness",
+  },
+  {
+    id: "project-8",
     title: "roastme",
     image: roastme,
     content:
       "An awesome app to insult friends or people for fun. Click their photo and show them the insulting lines on them.",
   },
   {
-    id: "project-5",
+    id: "project-9",
     title: "Okkiy",
     image: okkiy,
     content:
       " A native Android app that connects two strangers and gives the ability to voice chat without sharing any personal data.",
   },
   {
-    id: "project-6",
+    id: "project-10",
     title: "Investment Calculator",
     image: invest,
     content:
       "Easy to use app which help you plan your retirement or any other financial goals by performing complex calculations at a lightening speed and gives you the results with interactive graph and animations.",
   },
   {
-    id: "project-7",
+    id: "project-11",
     title: "housie",
     image: housie,
     content:
