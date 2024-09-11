@@ -230,7 +230,7 @@ export const projects = [
   },
   {
     id: "project-3",
-    title: "La Chick Pick",
+    title: "La Chic Pick",
     link: "https://lachicpick.in/",
     image: lachickpick,
     content:
