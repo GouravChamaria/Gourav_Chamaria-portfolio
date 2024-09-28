@@ -212,38 +212,38 @@ export const experiences = [
 ];
 
 export const projects = [
-  {
-    id: "project-1",
-    title: "BEXIA",
-    link: "https://bexia.ca/",
-    image: bexia,
-    content:
-      "Women clothing clothing webiste.",
-  },
-  {
-    id: "project-2",
-    title: "Canadian Shirt Company",
-    link: "https://canadianshirtcompany.com/",
-    image: canadianshirtcompany,
-    content:
-      "Canadian Shirt Company, your go-to shopping website for premium shirts in Canada",
-  },
-  {
-    id: "project-3",
-    title: "La Chic Pick",
-    link: "https://lachicpick.in/",
-    image: lachickpick,
-    content:
-      "Premium shopping site to shop around the world",
-  },
-  {
-    id: "project-4",
-    title: "Indian Shirt Company",
-    link: "https://indianshirtcompany.com/",
-    image: indianshirtcompany,
-    content:
-      "Shopping site for premium shirts in India",
-  },
+  // {
+  //   id: "project-1",
+  //   title: "BEXIA",
+  //   link: "https://bexia.ca/",
+  //   image: bexia,
+  //   content:
+  //     "Women clothing clothing webiste.",
+  // },
+  // {
+  //   id: "project-2",
+  //   title: "Canadian Shirt Company",
+  //   link: "https://canadianshirtcompany.com/",
+  //   image: canadianshirtcompany,
+  //   content:
+  //     "Canadian Shirt Company, your go-to shopping website for premium shirts in Canada",
+  // },
+  // {
+  //   id: "project-3",
+  //   title: "La Chic Pick",
+  //   link: "https://lachicpick.in/",
+  //   image: lachickpick,
+  //   content:
+  //     "Premium shopping site to shop around the world",
+  // },
+  // {
+  //   id: "project-4",
+  //   title: "Indian Shirt Company",
+  //   link: "https://indianshirtcompany.com/",
+  //   image: indianshirtcompany,
+  //   content:
+  //     "Shopping site for premium shirts in India",
+  // },
   {
     id: "project-5",
     title: "Ehalo",
