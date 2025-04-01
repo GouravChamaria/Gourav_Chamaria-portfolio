@@ -205,7 +205,7 @@ export const experiences = [
         duration: "May 2020 - September 2021",
         content: [
           {
-            text: "Worked as a Jr Web developer at Lenovo India",
+            text: "Worked as a Jr Web developer at Lenovo India, learning the new technologies and implementing them in the project.",
             link: "",
           },
         ],
@@ -222,7 +222,7 @@ export const experiences = [
         duration: "April 2019 - May 2020",
         content: [
           {
-            text: "Worked as a Jr Web developer at Accenture India",
+            text: "Worked as a Jr Web developer at Accenture India, working with a team of 5 developers to develop a web application for a client.",
             link: "",
           },
         ],
