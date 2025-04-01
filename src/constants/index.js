@@ -8,6 +8,9 @@ import {
   ehalo,
   filecraft,
   invest,
+  lenovo,
+  cgi,
+  accenture,
   bexia,
   canadianshirtcompany,
   lachickpick,
@@ -39,7 +42,7 @@ import {
 import { DiCss3, DiJava } from "react-icons/di";
 
 export const resumeLink =
-  "https://drive.google.com/file/d/1H9u7JlzgBZbbuelurGlbHXgPxNztS2AN/view?usp=sharing";
+  "https://docs.google.com/document/d/1jlaoRhUPC2Wvp4M-nWZ4JMoCg2HaLm7C4-7kGyvaoec/edit?usp=sharing";
 
 export const callToAction = "https://www.linkedin.com/in/Gourav-Chamaria";
 
@@ -176,16 +179,16 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Daal-Roti",
-    logo: dalroti,
-    link: "https://daalroti.ca/waterloo/",
+    organisation: "CGI",
+    logo: cgi,
+    link: "https://www.cgi.com/en",
     positions: [
       {
-        title: "Website Manager",
-        duration: "September 2021 - April 2023",
+        title: "Web Developer",
+        duration: "October 2021 - March 2023",
         content: [
           {
-            text: "Worked as a website manager and web developer at Daal-Roti, maintaining the website and adding new features to it.",
+            text: "Worked as web developer at CGI, maintaining the website and adding new features to it.",
             link: "",
           },
         ],
@@ -193,22 +196,39 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Sandhya Border Times",
-    logo: sbt,
-    link: "https://www.sbtnews.in/",
+    organisation: "Lenovo",
+    logo: lenovo,
+    link: "https://www.lenovo.com/ca/en/",
     positions: [
       {
-        title: "Web Developer",
-        duration: "March 2020 - September 2021",
+        title: "Jr. Web Developer",
+        duration: "May 2020 - September 2021",
         content: [
           {
-            text: "Worked as a web developer at Sandhya Border Times - a news company, built website from scratch and helped them grow in the market.",
+            text: "Worked as a Jr Web developer at Lenovo India",
             link: "",
           },
         ],
       },
     ],
   },
+  {
+    organisation: "Accenture",
+    logo: accenture,
+    link: "https://www.accenture.com/ca-en",
+    positions: [
+      {
+        title: "Jr. Web Developer",
+        duration: "April 2019 - May 2020",
+        content: [
+          {
+            text: "Worked as a Jr Web developer at Accenture India",
+            link: "",
+          },
+        ],
+      },
+    ],
+  }
 ];
 
 export const projects = [

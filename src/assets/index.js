@@ -49,6 +49,9 @@ import bexia from "./bexia.svg";
 import canadianshirtcompany from "./canadianshirtcompany.jpg";
 import lachickpick from "./lachickpick.svg";
 import indianshirtcompany from "./indianshirtcompany.png";
+import cgi from "./cgi.png";
+import lenovo from "./lenovo.svg";
+import accenture from "./accenture.jpeg";
 
 export {
   airbnb,
@@ -102,4 +105,7 @@ export {
   canadianshirtcompany,
   lachickpick,
   indianshirtcompany,
+  cgi,
+  lenovo,
+  accenture,
 };
