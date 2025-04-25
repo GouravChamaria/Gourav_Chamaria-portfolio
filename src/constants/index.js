@@ -15,6 +15,7 @@ import {
   canadianshirtcompany,
   lachickpick,
   indianshirtcompany,
+  intuit,
 } from "../assets";
 
 import {
@@ -162,16 +163,16 @@ export const skills = [
 
 export const experiences = [
   {
-    organisation: "Ehalo",
-    logo: ehalo,
-    link: "https://ehalo.travel",
+    organisation: "Intuit",
+    logo: intuit,
+    link: "https://www.intuit.com/ca/",
     positions: [
       {
         title: "Software Developer - Web",
         duration: "April 2023 - Present",
         content: [
           {
-            text: "Currently Working as web developer at Ehalo Travel - A travel tech startup based in Toronto",
+            text: "Currently Working as Software Developer at Intuit (Turbo Tax) in Toronto for more than 2 years",
             link: "",
           },
         ],

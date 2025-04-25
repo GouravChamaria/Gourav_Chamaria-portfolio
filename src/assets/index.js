@@ -52,6 +52,7 @@ import indianshirtcompany from "./indianshirtcompany.png";
 import cgi from "./cgi.png";
 import lenovo from "./lenovo.svg";
 import accenture from "./accenture.jpeg";
+import intuit from "./intuit.png";
 
 export {
   airbnb,
@@ -108,4 +109,5 @@ export {
   cgi,
   lenovo,
   accenture,
+  intuit
 };
