@@ -169,7 +169,7 @@ export const experiences = [
     positions: [
       {
         title: "Software Developer - Web",
-        duration: "April 2023 - Present",
+        duration: "November 2023 - Present",
         content: [
           {
             text: "Currently Working as Software Developer at Intuit (Turbo Tax) in Toronto for more than 2 years",
@@ -186,7 +186,7 @@ export const experiences = [
     positions: [
       {
         title: "Web Developer",
-        duration: "October 2021 - March 2023",
+        duration: "May 2022 - July 2023",
         content: [
           {
             text: "Worked as web developer at CGI, maintaining the website and adding new features to it.",
@@ -203,7 +203,7 @@ export const experiences = [
     positions: [
       {
         title: "Jr. Web Developer",
-        duration: "May 2020 - September 2021",
+        duration: "August 2020 - September 2021",
         content: [
           {
             text: "Worked as a Jr Web developer at Lenovo India, learning the new technologies and implementing them in the project.",
